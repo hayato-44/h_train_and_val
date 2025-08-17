@@ -1,0 +1,12 @@
+### 2次加熱推論のみ
+
+# 推論時の入力パラメータ
+SPECIFIC_DISTANCE = 14.1 # コイルと製品の距離
+INITIAL_MAX_TEMP = 901 # 初期最高温度
+INITIAL_MIN_TEMP = 876 # 初期最低温度
+TARGET_MAX_TEMP = 950 # 狙い最高温度
+TARGET_MIN_TEMP = 920 # 狙い最低温度
+SPECIFIC_FREQUENCY = 8200 # 周波数
+SPECIFIC_WEIGHT = 227 # 製品重量
+SPECIFIC_WIDTH = 14.05 # 製品幅
+SPECIFIC_HEIGHT = 20.2 # 製品高さ
